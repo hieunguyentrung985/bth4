@@ -1,0 +1,54 @@
+
+.nav{
+	border: 3px solid red;
+	background: blue;
+}
+.nav ul{
+	list-style: none;
+}
+.nav ul li{
+	display: inline-block;
+	width: 10%;
+	color: white;
+}
+.banner{
+	width: 90%;
+	height: 300px;
+}
+.banner img{
+	height:100%;
+	width:100%
+}
+.content{
+	margin-top: 20px;
+	width: 90%;
+	border: 3px solid red;
+	height: 320px;
+}
+.eachcontent{
+	border: 3px solid red;
+	width: 30%;
+	float:left;
+	margin-left:3%;
+}
+.eachcontent:first-child{
+	margin-left:0;
+}
+.sanpham{
+	color: blue;
+	border: 2px solid gray;
+}
+.anhsp{
+	float:left;
+	width: 30%;
+}
+.anhsp img{
+	width:100%;
+}
+.tieude{
+	color: blue;
+}
+.date{
+	color: gray;
+	margin-bottom: 10px;
+}

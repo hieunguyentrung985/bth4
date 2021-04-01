@@ -1,0 +1,31 @@
+.div1{
+	background-color: red;
+	width: 500px;
+	height: 200px;
+	margin-left: 50px;
+	top: 50px;
+	position: absolute;
+}
+body{
+	width: 900px;
+	height: 600px;
+	position: relative;
+	
+}
+.div2{
+	background-color: green;
+	width: 500px;
+	height: 200px;
+	margin-left: 100px;
+	top: 100px;
+	position: absolute;
+	
+}
+.div3{
+	background-color: blue;
+	width: 500px;
+	height: 200px;
+	margin-left: 150px;
+	top: 150px;
+	position: absolute;
+}
